@@ -1,0 +1,13 @@
+{
+  "name": "acos-sail",
+  "version": "0.1.0",
+  "description": "ACOS Sail() Protocol",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mhassany-pitt/acos-sail.git"
+  }
+}
